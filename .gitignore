@@ -1,0 +1,8 @@
+# Dépendances
+node_modules/
+
+# Artefacts de build Truffle
+build/
+
+# Fichiers de configuration environnementale
+.env
